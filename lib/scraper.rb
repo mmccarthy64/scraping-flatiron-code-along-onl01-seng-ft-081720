@@ -39,5 +39,6 @@ class Scraper
 end
 
 Scraper.new.get_page
+Course.all
 
 
